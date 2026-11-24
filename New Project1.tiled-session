@@ -1,0 +1,66 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "sample-lobby-Collides.json": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 833,
+                "y": 1061
+            }
+        },
+        "sample-lobby-Collides.json#Collides": {
+            "scaleInDock": 0.5
+        },
+        "sample-lobby-Collides.json#sample-lobby": {
+            "scaleInDock": 1
+        },
+        "sample-lobby-ollides.json#Collides.json": {
+            "scale": 0.32623626373626374,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1454.4673684210525,
+                "y": 816.8926315789473
+            }
+        },
+        "sample-lobby-ollides.json#Collides.json#Collides": {
+            "scaleInDock": 0.25
+        },
+        "sample-lobby-ollides.json#Collides.json#sample-lobby": {
+            "scaleInDock": 0.5
+        },
+        "sample-lobby.json": {
+            "scale": 0.32623626373626374,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1454.4673684210525,
+                "y": 816.8926315789473
+            }
+        },
+        "sample-lobby.json#Collides": {
+            "scaleInDock": 0.5
+        },
+        "sample-lobby.json#sample-lobby": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 51,
+    "map.lastUsedFormat": "json",
+    "map.width": 91,
+    "openFiles": [
+    ],
+    "project": "New Project1.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "sample-lobby.json",
+        "sample-lobby-Collides.json",
+        "sample-lobby-ollides.json#Collides.json"
+    ],
+    "tileset.embedInMap": true
+}
